@@ -1,0 +1,43 @@
+.slideone {
+    background-color: rgb(12, 12, 12);
+    height: 91vh;
+}
+
+.slideone img {
+    /* padding-top: 20px; */
+    height: 700px;
+    width: 100%;
+    opacity: 0.4;
+    object-fit: cover;
+    /* background-size: cover; */
+    /* background-size: cover; */
+}
+
+.slideonetax {}
+
+
+
+
+.slidetwo {
+    background-color: black;
+    height: 92vh;
+}
+
+.slidetwo img {
+    height: 700px;
+    width: 100%;
+    object-fit: cover;
+    opacity: 0.4;
+}
+
+
+.slidethree {
+    background-color: black;
+    height: 92vh;
+}
+
+.slidethree img {
+    height: 520px;
+    width: 100%;
+    object-fit: cover;
+}
